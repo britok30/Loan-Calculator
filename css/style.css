@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to right bottom, rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.603)), url(../img/calculator.jpg) no-repeat center center/cover;
+    height: 100vh
+}
+
+#loading, #results {
+    display: none;
+}
